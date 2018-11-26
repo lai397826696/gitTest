@@ -7,3 +7,7 @@ aaaa  aaaa
 
 add cccc
 add bbbccc
+
+merge aaa
+merge bbb
+merge ccc
