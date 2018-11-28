@@ -15,3 +15,5 @@ bug aaa
 merge aaa master
 merge bbb master updata master1 and updata dev1
 merge ccc master updata dev and updata master
+
+pull dev:master
