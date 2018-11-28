@@ -14,4 +14,4 @@ merge ccc
 bug aaa
 merge aaa master
 merge bbb master
-merge ccc master
+merge ccc master updata master
