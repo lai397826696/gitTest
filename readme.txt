@@ -19,3 +19,6 @@ merge ccc master updata dev and updata master
 pull dev:master
 
 default push master
+
+//updata
+new2 work
